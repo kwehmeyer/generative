@@ -1,5 +1,6 @@
-<html style="background-color:black;">
+<html style="background-color:black;font-family:arial;">
 <center>
+<font color="gray">
 
 # Generative
 
@@ -13,5 +14,6 @@
 ![](start/1738/1728.png)
 
 
+</font>
 </center>
 </html>
