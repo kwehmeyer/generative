@@ -1,6 +1,3 @@
----
-mainfont: Arial
----
 # Art
 
 ## DONUT
