@@ -1,7 +1,7 @@
 <html style="background-color:black;">
 <center>
 
-# Art
+# Generative
 
 ## DONUT
 
