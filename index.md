@@ -2,11 +2,11 @@
 
 ## DONUT
 
-![](/beginnings/donut/donut.svg)
+![](start/donut/donut.png)
 
 ***
 
 ## 17     38
 
-![](/beginnings/1738/1738.svg)
+![](start/1738/1728.png)
 
