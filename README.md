@@ -1,4 +1,4 @@
-<center>
+<center style="background-color:black;">
 
 # Art
 
@@ -6,7 +6,6 @@
 
 ![](start/donut/donut.png)
 
-***
 
 ## 17     38
 
