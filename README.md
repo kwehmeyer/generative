@@ -1,4 +1,5 @@
-<center style="background-color:black;">
+<html style="background-color:black;">
+<center>
 
 # Art
 
@@ -13,3 +14,4 @@
 
 
 </center>
+</html>
