@@ -1,4 +1,4 @@
-<html style="background-color:black;font-family:arial;">
+<html style="background-color:black;font-family:helvetica;">
 <center>
 <font color="gray">
 
