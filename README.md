@@ -1,3 +1,5 @@
+<center>
+
 # Art
 
 ## DONUT
@@ -10,3 +12,5 @@
 
 ![](start/1738/1728.png)
 
+
+</center>
