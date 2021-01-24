@@ -1,6 +1,9 @@
 <html style="background-color:black;font-family:helvetica;">
 <center>
 <font color="gray">
+<head>
+<title>Generative | Kahlil Wehmeyer</title>
+</head>
 
 # Generative
 
