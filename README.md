@@ -19,7 +19,8 @@
 
 ![2021.01.23](start/1738/1728.png)
 
-
+<br>
+<footer>Copyright Kahlil Wehmeyer 2021 </footer>
 </font>
 </center>
 </html>
