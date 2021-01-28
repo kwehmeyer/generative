@@ -7,6 +7,9 @@
 
 # GENERATIVE
 
+## 'BUBBLEGUM
+![2021.01.27](start/primebubblegum/primebubblegum.png)
+
 ## TURTLE
 ![2021.01.25](start/turtle/turtle.png)
 
