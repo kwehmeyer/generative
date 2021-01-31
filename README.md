@@ -8,7 +8,7 @@
 # GENERATIVE
 
 ## WYRM CLUB
-![2021.01.31](start/wyrm/wyrmclub.png)
+![2021.01.31](start/wyrm/wrymclub.png)
 
 ## 'BUBBLEGUM
 ![2021.01.27](start/primebubblegum/primebubblegum.png)
