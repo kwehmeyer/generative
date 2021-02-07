@@ -7,12 +7,12 @@ canvas_height = paper_sizes["A4"][1]
 
 bg_color = colorant"#376B8C"
 ln_color = colorant"#B4D2D9"
-ln_color2 = colorant"#BF8821"
-border_color = colorant"#B5BF6B"
+ln_color2 = colorant"#000000"
+border_color = colorant"#708C89"
 
 ##
 
-Drawing(canvas_height,canvas_width, :png)
+Drawing(canvas_height,canvas_width, "start/anotherdayintheoffice/anotherdayintheoffice.png")
 origin()
 background(bg_color)
 
@@ -45,5 +45,3 @@ box(O, canvas_height, canvas_width, :stroke)
 
 finish()
 preview() 
-
-##
