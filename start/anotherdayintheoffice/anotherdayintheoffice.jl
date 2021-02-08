@@ -12,7 +12,7 @@ border_color = colorant"#708C89"
 
 ##
 
-Drawing(canvas_height,canvas_width, "start/anotherdayintheoffice/anotherdayintheoffice.png")
+Drawing(canvas_height,canvas_width, "adito.svg")
 origin()
 background(bg_color)
 
