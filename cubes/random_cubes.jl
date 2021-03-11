@@ -45,7 +45,7 @@ HEIGHT = 800
 SIDE_LENGTH = 100
 
 
-Drawing(HEIGHT, WIDTH, :png)
+Drawing(HEIGHT, WIDTH, "random_cubes.png")
 background("antiquewhite")
 a = "ABCD"
 b = 1

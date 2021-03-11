@@ -24,7 +24,7 @@ HEIGHT = 800
 SIDE_LENGTH = 100
 
 
-Drawing(HEIGHT, WIDTH, "isometriccubestudy.svg")
+Drawing(HEIGHT, WIDTH, "isometriccubestudy.png")
 origin()
 background("antiquewhite")
 
