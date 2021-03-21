@@ -1,10 +1,13 @@
 ## Libraries
-using Luxor, Colors
+using Luxor, Colors, Random
 
 
-## Drawing lol 
 
 ## Functions
+
+function stringscrammbler(s)
+    return(join(shuffle(split(s))))
+end
 
 function cubeCoordGen(origin, sidelength)
     plus_y = sidelength * sin(deg2rad(30))
@@ -25,18 +28,19 @@ end
 
 function cubeAreasFiller(points, areas)
     areas = uppercase(areas)
-    randomcolor()
 
     if contains(areas,"A")
+        randomcolor()
         poly(points[1:4], :fill)
     end
     if contains(areas,"B")
+        randomcolor()
         poly(points[[1,4,5,6]], :fill)
     end
     if contains(areas,"C")
+        randomcolor()
         poly(points[[1,6,7,2]], :fill)
     end
-    sethue("black")
 end
 
 
@@ -48,10 +52,10 @@ HEIGHT = 800
 SIDE_LENGTH = 100
 
 
-Drawing(HEIGHT, WIDTH, :png)
+Drawing(HEIGHT, WIDTH, "random_cubes.png")
 background("antiquewhite")
 
-a = "ABCD"
+a = "A B C D"
 b = 1
 for i in 100:200:WIDTH-100
     for j in 100:200:HEIGHT-100
@@ -62,6 +66,7 @@ for i in 100:200:WIDTH-100
         
 
         points = cubeCoordGen(O, 40)
+        cubeAreasFiller(points, stringscrammbler(a)[1:rand(1:4)])
         setcolor(0,0,0,1)
         for k in 1:7
             if k == 7
